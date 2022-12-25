@@ -17,6 +17,7 @@ public class Main {
             System.out.println("невискосный");
         }
     }
+
     public static int installYear() {
         return 2022;
     }
